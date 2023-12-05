@@ -1,4 +1,4 @@
-
+import "./Konyv.css"
 
 function Konyv(){
     return(
